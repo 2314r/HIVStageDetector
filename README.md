@@ -11,6 +11,7 @@ The dataset contains 8,916 anonymized patient records with the following feature
 - Derived labels:
   - Multiclass: HIV stage (`Early`, `Mid`, `AIDS`)
   - Binary: CD4 improvement (yes/no after 6 months)
+  - Dataset was cleaned and shortened from Health Gym v2.0 Dataset. Original Dataset contained 534.000 lines.
 
 > Source: [Synthetic HIV ART dataset – Health Gym v2.0](https://figshare.com/articles/dataset/22827878)
 
